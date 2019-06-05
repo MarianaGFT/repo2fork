@@ -1,0 +1,48 @@
+Last login: Mon May 20 18:30:14 on ttys000
+iMac-de-iMac05:~ 2d$ cd Google\ Drive/
+iMac-de-iMac05:Google Drive 2d$ cd 3p/
+-bash: cd: 3p/: No such file or directory
+iMac-de-iMac05:Google Drive 2d$ cd /3p
+-bash: cd: /3p: No such file or directory
+iMac-de-iMac05:Google Drive 2d$ cd code/js
+iMac-de-iMac05:js 2d$ cd 3p
+iMac-de-iMac05:3p 2d$ nano mgft.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6              File: mgft.txt                          Modified  
+
+Mariana Guadalupe Fajardo Toscano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell
